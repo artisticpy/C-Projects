@@ -1,3 +1,5 @@
+//Digital Clock Program made with C language
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
